@@ -1,0 +1,1 @@
+This is a friendly note from GitHub Copilot Chat Assistant, showing how a file can be added to your repository.
